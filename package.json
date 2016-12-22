@@ -1,7 +1,7 @@
 {
-  "name": "react-redux-universal-hot-example",
+  "name": "findib",
   "description": "Example of an isomorphic (universal) webapp using react redux and hot reloading",
-  "author": "Erik Rasmussen <rasmussenerik@gmail.com> (http://github.com/erikras)",
+  "author": "Sharjeel Aziz <sharjjeel@gmail.com> (http://github.com/sharjjeel)",
   "license": "MIT",
   "version": "0.9.0",
   "repository": {
@@ -44,7 +44,6 @@
       "env": {
         "NODE_PATH": "./src",
         "NODE_ENV": "production",
-        "PORT": 8080,
         "APIPORT": 3030
       }
     },
