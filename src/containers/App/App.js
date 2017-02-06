@@ -93,7 +93,7 @@ export default class App extends Component {
         </div>
 
         <div className="well text-center">
-          Estimated delivery date is end of December 2016!
+          Findib is out on the App Store! Coming soon to Android :)
         </div>
       </div>
     );

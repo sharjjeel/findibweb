@@ -21,10 +21,7 @@ export default class About extends Component {
           (<a href="https://twitter.com/carsetists" target="_blank">@carsetists</a>).
         </p>
         <p>
-            It is still in progress, so I appreciate your patience!
-        </p>
-        <p>
-          I hope to finish by end of December 2016, but I have to satisfy the product people before I can push it...
+            It is out on the <a href="https://itunes.apple.com/pw/app/findib/id1201619334?mt=8" target="_blank">app store</a>. Coming soon to Android!
         </p>
         <p>
             I used this <a href="https://github.com/erikras/react-redux-universal-hot-example" target="_blank">template</a> to build out this website.
